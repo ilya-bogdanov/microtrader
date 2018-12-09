@@ -10,4 +10,5 @@ shippable
 .project
 .settings
 *.iml
+*.log
 audit-db*
